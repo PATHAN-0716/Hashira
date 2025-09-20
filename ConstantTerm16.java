@@ -2,7 +2,7 @@ import java.io.*;
 import java.math.BigInteger;
 import java.util.*;
 
-public class ConstantTerm {
+public class ConstantTerm16 {
 
   static class Pt { 
     BigInteger x, y; 
